@@ -1,3 +1,3 @@
-.skeleton {
-  background-color: hsl(12%, 15%, 20%);
+.dropdown:hover>.dropdown-menu{
+  display: block;
 }
